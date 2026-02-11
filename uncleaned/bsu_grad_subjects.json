@@ -1,0 +1,770 @@
+[
+	{
+		"id": "0F9333BE-DFDF-4006-8014-E50250C55599",
+		"code": "ACC",
+		"name": "ACC - Accounting",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ACC-Accounting"
+	},
+	{
+		"id": "2CD1DAD1-217F-4A48-869A-8E6BB8A1FA2D",
+		"code": "ACE",
+		"name": "ACE - Athletic Coachng Ed",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ACE-Athletic-Coachng-Ed"
+	},
+	{
+		"id": "7D5E172F-BA56-418B-A469-C8B06AAC8D6D",
+		"code": "ACR",
+		"name": "ACR - Art:  Crafts",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ACR-Art-Crafts"
+	},
+	{
+		"id": "5431D69F-B048-47A5-A94A-5ECA3445DE24",
+		"code": "AED",
+		"name": "AED - Art:  Education",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/AED-Art-Education"
+	},
+	{
+		"id": "E7269952-13DF-48B8-BC07-5FE5FF56DDD0",
+		"code": "AFA",
+		"name": "AFA - Art:  Fine Arts",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/AFA-Art-Fine-Arts"
+	},
+	{
+		"id": "2CC2B668-98EB-4710-A079-D53D9BB8C631",
+		"code": "AHS",
+		"name": "AHS - Art:  History",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/AHS-Art-History"
+	},
+	{
+		"id": "A00F1C15-835F-4AE8-9859-45B14C0B1629",
+		"code": "ANAT",
+		"name": "ANAT - Anatomy",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ANAT-Anatomy"
+	},
+	{
+		"id": "ABF59B7C-36ED-410C-BFE6-520C47876304",
+		"code": "ANTH",
+		"name": "ANTH - Anthropology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ANTH-Anthropology"
+	},
+	{
+		"id": "66921FCD-BF7D-4FAD-92E9-42F06E286379",
+		"code": "APHY",
+		"name": "APHY - Applied Physics",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/APHY-Applied-Physics"
+	},
+	{
+		"id": "BFAD049F-2B16-409E-B667-50AFB8EAF04F",
+		"code": "ARCH",
+		"name": "ARCH - Architecture",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ARCH-Architecture"
+	},
+	{
+		"id": "029DA828-664B-4C51-A227-3C6FCE4F89A4",
+		"code": "ART",
+		"name": "ART - Art",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ART-Art"
+	},
+	{
+		"id": "4985931E-181B-4EF4-941D-02FEC92E69EA",
+		"code": "ASIA",
+		"name": "ASIA - Asian Studies",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ASIA-Asian-Studies"
+	},
+	{
+		"id": "C151A613-FF0C-4DD7-BC56-3292D7EBA57E",
+		"code": "ASTR",
+		"name": "ASTR - Astronomy",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ASTR-Astronomy"
+	},
+	{
+		"id": "CCE40948-CA80-4B81-8542-B6C4917BA6C7",
+		"code": "AT",
+		"name": "AT - Athletic Training",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/AT-Athletic-Training"
+	},
+	{
+		"id": "BAA74645-FE21-4165-83E8-C22892957B81",
+		"code": "BED",
+		"name": "BED - Business Education",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/BED-Business-Education"
+	},
+	{
+		"id": "678E25D0-0AC4-488F-8075-359FA266F3B3",
+		"code": "BIO",
+		"name": "BIO - Biology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/BIO-Biology"
+	},
+	{
+		"id": "10C3C973-EFEC-4320-8872-491F01F98DD8",
+		"code": "BIOT",
+		"name": "BIOT - Biotechnology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/BIOT-Biotechnology"
+	},
+	{
+		"id": "214B36A0-FE1A-47DA-9F28-046B11739F1B",
+		"code": "BOT",
+		"name": "BOT - Botany",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/BOT-Botany"
+	},
+	{
+		"id": "9FCD2B16-9F95-41F2-BD07-4BD792BCF9AA",
+		"code": "BUSA",
+		"name": "BUSA - Business Administrtn",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/BUSA-Business-Administrtn"
+	},
+	{
+		"id": "38B518CB-E104-4008-9B7E-F15A1B81A12A",
+		"code": "CAP",
+		"name": "CAP - Coll Arch & Planning",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CAP-Coll-Arch-Planning"
+	},
+	{
+		"id": "587EEF70-4011-4BAC-9D44-D2474D203923",
+		"code": "CC",
+		"name": "CC - Classical Culture",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CC-Classical-Culture"
+	},
+	{
+		"id": "B4159DF9-9724-4C7B-8DC6-3896D2437A26",
+		"code": "CFA",
+		"name": "CFA - College of Fine Arts",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CFA-College-of-Fine-Arts"
+	},
+	{
+		"id": "48CC5756-EB27-49F7-A425-37AED158E34B",
+		"code": "CHEM",
+		"name": "CHEM - Chemistry",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CHEM-Chemistry"
+	},
+	{
+		"id": "5B61B069-8265-4350-86AE-F49B7BB9B144",
+		"code": "CJC",
+		"name": "CJC - Crim Justice & Crim",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CJC-Crim-Justice-Crim"
+	},
+	{
+		"id": "DC92198E-E95E-4C6D-8145-61D9A59EDFE1",
+		"code": "CM",
+		"name": "CM - Construction Management",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CM-Construction-Management"
+	},
+	{
+		"id": "B9AD8808-BEBB-4359-8644-77FF63397398",
+		"code": "COMM",
+		"name": "COMM - Communication Stds",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/COMM-Communication-Stds"
+	},
+	{
+		"id": "2B514E26-E5D3-4D17-AAA3-C95AE0D1CFB5",
+		"code": "CPSY",
+		"name": "CPSY - Counseling Psych",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CPSY-Counseling-Psych"
+	},
+	{
+		"id": "785410CD-4043-47E5-82C9-D0BFF0C447C5",
+		"code": "CRPR",
+		"name": "CRPR - Creative Project",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CRPR-Creative-Project"
+	},
+	{
+		"id": "1E4D2289-7C04-4CB0-AB46-0BD07A7512A3",
+		"code": "CS",
+		"name": "CS - Computer Science",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CS-Computer-Science"
+	},
+	{
+		"id": "99C1B525-22E1-4659-80FD-9E0B713517D5",
+		"code": "CT",
+		"name": "CT - Computer Technology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CT-Computer-Technology"
+	},
+	{
+		"id": "5CEE7392-7B64-4D5F-9918-AADA882F5346",
+		"code": "CTE",
+		"name": "CTE - Career and Technical Ed",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/CTE-Career-and-Technical-Ed"
+	},
+	{
+		"id": "44C27498-52A9-49E4-B857-AFA3368EDD4A",
+		"code": "DISS",
+		"name": "DISS - Dissertation",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/DISS-Dissertation"
+	},
+	{
+		"id": "B8124A7F-1A61-4C58-876D-BA1F49D0F3A2",
+		"code": "DOC",
+		"name": "DOC - Doctoral Candidate",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/DOC-Doctoral-Candidate"
+	},
+	{
+		"id": "30FD689D-343A-4D92-A247-7A8B6CA688FF",
+		"code": "DSCI",
+		"name": "DSCI - Data Science",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/DSCI-Data-Science"
+	},
+	{
+		"id": "9BB7FA06-C459-4912-8CED-8A81D02C0CD1",
+		"code": "ECON",
+		"name": "ECON - Economics",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ECON-Economics"
+	},
+	{
+		"id": "0885CA5D-0302-4317-A088-D841A528DF9A",
+		"code": "ECYF",
+		"name": "ECYF - Early Child Youth Fam",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ECYF-Early-Child-Youth-Fam"
+	},
+	{
+		"id": "AB7DADC1-6CC7-49A7-B0D3-0BD405E80A08",
+		"code": "EDAC",
+		"name": "EDAC - Ed: Adult & Communty",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDAC-Ed-Adult-Communty"
+	},
+	{
+		"id": "FBA3A9EF-549F-4CF1-9661-A8AD0A73E155",
+		"code": "EDAD",
+		"name": "EDAD - Ed: Admin & Super",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDAD-Ed-Admin-Super"
+	},
+	{
+		"id": "6F62D8A8-C3DC-4D8E-A310-DBC49DFC1B52",
+		"code": "EDCC",
+		"name": "EDCC - EDUCATION, COMM COLLEGE",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDCC-EDUCATION-COMM-COLLEGE"
+	},
+	{
+		"id": "47A13B1D-428F-4B68-9712-628D5A247F1C",
+		"code": "EDCU",
+		"name": "EDCU - Education: Curriculm",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDCU-Education-Curriculm"
+	},
+	{
+		"id": "8EC27FFD-1D50-470D-9BBC-84F0A64F3B27",
+		"code": "EDEL",
+		"name": "EDEL - Educ:  Elementary",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDEL-Educ-Elementary"
+	},
+	{
+		"id": "176320E3-C3EB-452F-ADA9-10B3B5019410",
+		"code": "EDFO",
+		"name": "EDFO - Educ:  Foundations",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDFO-Educ-Foundations"
+	},
+	{
+		"id": "B546F519-B8D6-4E54-BAD8-AAFF8C38DD87",
+		"code": "EDGE",
+		"name": "EDGE - Education:  General",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDGE-Education-General"
+	},
+	{
+		"id": "77EC03C0-2AFC-4C7E-8DE1-6E079D3D9C9B",
+		"code": "EDHI",
+		"name": "EDHI - Education:  Higher",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDHI-Education-Higher"
+	},
+	{
+		"id": "CD62CDD7-86FA-4640-AC7C-ACF4BFCA2A01",
+		"code": "",
+		"name": "EDJH - Ed:  Jr Hi Mid Schl",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDJH-Ed-Jr-Hi-Mid-Schl"
+	},
+	{
+		"id": "1B417973-7D38-4605-8056-AB074B4F4A11",
+		"code": "EDMU",
+		"name": "EDMU - Education: Multi-Med",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDMU-Education-Multi-Med"
+	},
+	{
+		"id": "BFD5279B-139A-42C1-9DC2-D58458BB657D",
+		"code": "EDPS",
+		"name": "EDPS - Educ:  Psychology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDPS-Educ-Psychology"
+	},
+	{
+		"id": "03EE03A1-A26F-4F0D-8A60-58B48F71A596",
+		"code": "EDRD",
+		"name": "EDRD - Education:  Reading",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDRD-Education-Reading"
+	},
+	{
+		"id": "2DF84E59-C6E1-45F4-B521-EDABABEC84BE",
+		"code": "EDSE",
+		"name": "EDSE - Education:  Secondry",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDSE-Education-Secondry"
+	},
+	{
+		"id": "943B7961-6636-4A93-8E44-E026D9496753",
+		"code": "EDST",
+		"name": "EDST - Education: Studies",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDST-Education-Studies"
+	},
+	{
+		"id": "EBAF3D0B-8006-4345-BE06-9DEA8AD26FCB",
+		"code": "EDTE",
+		"name": "EDTE - Education: Technology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EDTE-Education-Technology"
+	},
+	{
+		"id": "3F412BF9-FE80-4D96-B4A7-7D53CF2B73BB",
+		"code": "EGNR",
+		"name": "EGNR - Environment, Geology, & Natural Resources",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EGNR-Environment-Geology-Natural-Resources"
+	},
+	{
+		"id": "89D161F8-CF2E-4F12-9D89-EE59F07969F5",
+		"code": "EMDD",
+		"name": "EMDD - Emerging Media Des Dev",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EMDD-Emerging-Media-Des-Dev"
+	},
+	{
+		"id": "63D0D9C3-4A6E-44C5-A643-1A1A5ABCED6A",
+		"code": "EMHS",
+		"name": "EMHS - Emer Mgt Hmlnd Sec",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EMHS-Emer-Mgt-Hmlnd-Sec"
+	},
+	{
+		"id": "8A3CB2E5-FB9E-4926-9267-373C9114D21C",
+		"code": "ENG",
+		"name": "ENG - English",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ENG-English"
+	},
+	{
+		"id": "EFC95D34-B146-427A-9FFE-13403D6522B6",
+		"code": "EXSC",
+		"name": "EXSC - Exercise Science",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/EXSC-Exercise-Science"
+	},
+	{
+		"id": "94954AF2-1E91-4B24-A71D-68EE12096C4B",
+		"code": "FASH",
+		"name": "FASH - Fashion",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/FASH-Fashion"
+	},
+	{
+		"id": "F715EEF2-4D29-429D-AAFC-A6A5663F48C6",
+		"code": "FCED",
+		"name": "FCED - Fam & Con Sci Educ",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/FCED-Fam-Con-Sci-Educ"
+	},
+	{
+		"id": "05692454-B050-4575-924D-12915778FC9B",
+		"code": "FCS",
+		"name": "FCS - Family & Consumer Sc",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/FCS-Family-Consumer-Sc"
+	},
+	{
+		"id": "AFF3D4C6-DE10-4E97-8751-37E7FA55E599",
+		"code": "FIN",
+		"name": "FIN - Finance",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/FIN-Finance"
+	},
+	{
+		"id": "043509E2-018A-4700-A077-02A87EBC2857",
+		"code": "FR",
+		"name": "FR - French",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/FR-French"
+	},
+	{
+		"id": "FC2F449B-63D1-4799-8763-E8EA35DD943C",
+		"code": "GEOG",
+		"name": "GEOG - Geography",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/GEOG-Geography"
+	},
+	{
+		"id": "28E1308C-B5E4-4CD6-B143-9659DC391335",
+		"code": "GEOL",
+		"name": "GEOL - Geology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/GEOL-Geology"
+	},
+	{
+		"id": "00BF39B8-BC1D-43F9-A7BF-9CD5C2BEC77C",
+		"code": "",
+		"name": "GER - German",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/GER-German"
+	},
+	{
+		"id": "C1F18D05-2FA2-425A-BA7C-6AD7720425A8",
+		"code": "",
+		"name": "GRK - Greek",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/GRK-Greek"
+	},
+	{
+		"id": "9ABE0FAD-B12A-463C-AB2F-E0B6C3BB8C9B",
+		"code": "HIST",
+		"name": "HIST - History",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/HIST-History"
+	},
+	{
+		"id": "AB7B7512-4C71-4307-9F4B-8874FC5135A1",
+		"code": "HOSP",
+		"name": "HOSP - Hosp & Food Mgt",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/HOSP-Hosp-Food-Mgt"
+	},
+	{
+		"id": "A48033D4-2777-4169-BD4F-7E7791919C0A",
+		"code": "HSC",
+		"name": "HSC - Health Science",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/HSC-Health-Science"
+	},
+	{
+		"id": "0DABFCA8-321C-47F7-95BB-5F9BEB64D44E",
+		"code": "ICS",
+		"name": "ICS - Info & Commun Scienc",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ICS-Info-Commun-Scienc"
+	},
+	{
+		"id": "41730995-7214-4BF8-AE5E-70CA6214E6A9",
+		"code": "IDES",
+		"name": "IDES - Interior Design",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/IDES-Interior-Design"
+	},
+	{
+		"id": "AEDE03D9-7AF0-46CC-B775-9E06EF384987",
+		"code": "ID",
+		"name": "ID - Interdepartmental",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ID-Interdepartmental"
+	},
+	{
+		"id": "79C87EC1-621E-4471-B0C6-BF7308D7CAEF",
+		"code": "ISOM",
+		"name": "ISOM - Info Sys & Opert Mgt",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ISOM-Info-Sys-Opert-Mgt"
+	},
+	{
+		"id": "E4CAF364-C91A-44EE-8DD7-5C0A640C1AAF",
+		"code": "JAPA",
+		"name": "JAPA - Japanese",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/JAPA-Japanese"
+	},
+	{
+		"id": "29E78674-96F6-4E45-8D9D-B25A40B89D57",
+		"code": "JOUR",
+		"name": "JOUR - Journalism",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/JOUR-Journalism"
+	},
+	{
+		"id": "784681E2-129E-4A42-A51F-A5E83470DD49",
+		"code": "KINE",
+		"name": "KINE - Kinesiology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/KINE-Kinesiology"
+	},
+	{
+		"id": "EB5A06B4-6F97-4132-8E75-6011BA4CB541",
+		"code": "LA",
+		"name": "LA - Landscape Architect",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/LA-Landscape-Architect"
+	},
+	{
+		"id": "D30C6E66-28D9-4B0F-A279-D5E5D7761707",
+		"code": "LAT",
+		"name": "LAT - Latin",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/LAT-Latin"
+	},
+	{
+		"id": "A4FECAFA-270F-465F-BACF-FD5B8E03190E",
+		"code": "MAST",
+		"name": "MAST - Masters Candidate",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MAST-Masters-Candidate"
+	},
+	{
+		"id": "40FAD856-A091-40E2-B84D-D6F3894EBEF1",
+		"code": "MATH",
+		"name": "MATH - Mathematics",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MATH-Mathematics"
+	},
+	{
+		"id": "78468937-35A4-493F-840A-696F4B96EF21",
+		"code": "MBA",
+		"name": "MBA - Master Business Ad",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MBA-Master-Business-Ad"
+	},
+	{
+		"id": "E750248F-09F9-46ED-91C9-063B5EAF2158",
+		"code": "MDIA",
+		"name": "MDIA - Media",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MDIA-Media"
+	},
+	{
+		"id": "02AAA72E-9E9E-4B6A-9E06-D0A814F3CE1F",
+		"code": "METC",
+		"name": "METC - Meteorology-Climatology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/METC-Meteorology-Climatology"
+	},
+	{
+		"id": "F32FCBD3-E26E-49D2-9775-133E53CEC55C",
+		"code": "MGT",
+		"name": "MGT - Management",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MGT-Management"
+	},
+	{
+		"id": "F4245792-6470-4FEF-8581-7BBDA034FB3B",
+		"code": "MKG",
+		"name": "MKG - Marketing",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MKG-Marketing"
+	},
+	{
+		"id": "2BB5433E-F6CB-419F-82BC-E9596E8E2452",
+		"code": "MUHI",
+		"name": "MUHI - Music:  History",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MUHI-Music-History"
+	},
+	{
+		"id": "C39279B5-0372-4C6B-8C39-77F7F6583391",
+		"code": "MUSC",
+		"name": "MUSC - School of Music",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MUSC-School-of-Music"
+	},
+	{
+		"id": "21F1DA12-DD9B-46A0-A132-74B4E643ABD7",
+		"code": "MUSE",
+		"name": "MUSE - Music:  Education",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MUSE-Music-Education"
+	},
+	{
+		"id": "74EC86AC-705D-477C-A593-BE9EBD22A2D8",
+		"code": "MUSP",
+		"name": "MUSP - Music:  Performance",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MUSP-Music-Performance"
+	},
+	{
+		"id": "F576EA46-7A95-4D36-B4AF-25857F438EE2",
+		"code": "MUST",
+		"name": "MUST - Music: Theory & Comp",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/MUST-Music-Theory-Comp"
+	},
+	{
+		"id": "D184193A-6B1E-48FA-8E72-49B8B7AC6194",
+		"code": "",
+		"name": "NEWS - News",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/NEWS-News"
+	},
+	{
+		"id": "2BC0A189-9829-4F04-A0CD-3B243BFAEDE2",
+		"code": "NREM",
+		"name": "NREM - Natural Res & Env Mg",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/NREM-Natural-Res-Env-Mg"
+	},
+	{
+		"id": "6CE22E37-2196-4A8E-A980-A902D5E4CD17",
+		"code": "NUR",
+		"name": "NUR - Nursing",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/NUR-Nursing"
+	},
+	{
+		"id": "F2F87A75-11B4-4225-9588-A2E30732FCAD",
+		"code": "NUTR",
+		"name": "NUTR - Nutrition",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/NUTR-Nutrition"
+	},
+	{
+		"id": "FDF37369-0BBF-461F-A39C-479631C8B002",
+		"code": "PHIL",
+		"name": "PHIL - Philosophy",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/PHIL-Philosophy"
+	},
+	{
+		"id": "A0BF6D22-5315-4824-BA57-D590BA24E802",
+		"code": "PHYC",
+		"name": "PHYC - Physics",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/PHYC-Physics"
+	},
+	{
+		"id": "76893DA0-CCAF-4124-A4D5-0AEF4A228DF4",
+		"code": "PHYS",
+		"name": "PHYS - Physiology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/PHYS-Physiology"
+	},
+	{
+		"id": "7AFBE6DE-C22B-4A35-A670-65D9D9D59595",
+		"code": "PLAN",
+		"name": "PLAN - Planning",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/PLAN-Planning"
+	},
+	{
+		"id": "58C56BAE-26E2-41C6-A82F-F52012EC473C",
+		"code": "PMGT",
+		"name": "PMGT - Residential Prop Mgt",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/PMGT-Residential-Prop-Mgt"
+	},
+	{
+		"id": "E1970554-16F3-4720-9A26-4E2EBC595ABA",
+		"code": "POLS",
+		"name": "POLS - Political Science",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/POLS-Political-Science"
+	},
+	{
+		"id": "ED099774-39D2-44C6-8BD5-F9BF1D0AB596",
+		"code": "PR",
+		"name": "PR - Public Relations",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/PR-Public-Relations"
+	},
+	{
+		"id": "77F36381-C8DD-4DC4-B992-456F3A0C3593",
+		"code": "PS",
+		"name": "PS - Performance Studies",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/PS-Performance-Studies"
+	},
+	{
+		"id": "F5758A13-A1EE-4B10-80EE-D0801542EB42",
+		"code": "PSYS",
+		"name": "PSYS - Psychological Science",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/PSYS-Psychological-Science"
+	},
+	{
+		"id": "D4EB89F2-3152-4FE6-B1CF-A516539C2BFF",
+		"code": "RELS",
+		"name": "RELS - Religious Studies",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/RELS-Religious-Studies"
+	},
+	{
+		"id": "0C375C88-DF08-4979-A220-82CDBEAC2F7F",
+		"code": "RES",
+		"name": "RES - Research",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/RES-Research"
+	},
+	{
+		"id": "DBE3807D-E947-4C48-A229-7F2526D24043",
+		"code": "RMI",
+		"name": "RMI - Risk Mgt & Insurance",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/RMI-Risk-Mgt-Insurance"
+	},
+	{
+		"id": "1633D234-314E-47F7-87E1-5E03B62465E4",
+		"code": "SCCO",
+		"name": "SCCO - School Counseling",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SCCO-School-Counseling"
+	},
+	{
+		"id": "64DDCA0D-3E9D-4568-B1E3-5E6E27C4EB7B",
+		"code": "SCI",
+		"name": "SCI - Science",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SCI-Science"
+	},
+	{
+		"id": "DCD71B96-C605-4850-AE55-FB06B260E397",
+		"code": "SEPS",
+		"name": "SEPS - Sport Exercise Psych",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SEPS-Sport-Exercise-Psych"
+	},
+	{
+		"id": "DC3C3212-24DC-49EC-A207-0B80622A83FB",
+		"code": "SNLN",
+		"name": "SNLN - Sign Language",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SNLN-Sign-Language"
+	},
+	{
+		"id": "FFE69797-E776-4613-8F96-7807F6F124AA",
+		"code": "SOC",
+		"name": "SOC - Sociology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SOC-Sociology"
+	},
+	{
+		"id": "4B120913-B5B8-49CA-A192-EBA2EB778751",
+		"code": "SOCW",
+		"name": "SOCW - Social Work",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SOCW-Social-Work"
+	},
+	{
+		"id": "B1D45648-C63B-4D58-9EFD-E958AF4F899D",
+		"code": "SOPS",
+		"name": "SOPS - Social Psychology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SOPS-Social-Psychology"
+	},
+	{
+		"id": "CF3BD365-E4D3-4311-BC68-43A5B4BF6C17",
+		"code": "SPAA",
+		"name": "SPAA - Speech Path & Audio",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SPAA-Speech-Path-Audio"
+	},
+	{
+		"id": "21DA1E39-A6D3-4EC1-8AC6-660810494793",
+		"code": "SPCE",
+		"name": "SPCE - Special Education",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SPCE-Special-Education"
+	},
+	{
+		"id": "75533D08-0A8A-4586-9276-335D60AE94F4",
+		"code": "SP",
+		"name": "SP - Spanish",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SP-Spanish"
+	},
+	{
+		"id": "C18AE8B3-BA95-4CE5-8CE5-8A89236730A0",
+		"code": "SPTA",
+		"name": "SPTA - Sport Administration",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SPTA-Sport-Administration"
+	},
+	{
+		"id": "731AF424-76D1-44FC-BE77-7ED5E14C408B",
+		"code": "SS",
+		"name": "SS - Social Science",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SS-Social-Science"
+	},
+	{
+		"id": "FC359F9E-A012-4EBA-82BE-D9A53B7F231B",
+		"code": "SUST",
+		"name": "SUST - Sustainability",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/SUST-Sustainability"
+	},
+	{
+		"id": "CF587A7A-47B6-43E1-8142-19F80F602976",
+		"code": "TCMP",
+		"name": "TCMP - Technology: Computers",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/TCMP-Technology-Computers"
+	},
+	{
+		"id": "6A11FED1-FD99-4570-AE02-702BC1F197B1",
+		"code": "TDPT",
+		"name": "TDPT - Technology: Department",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/TDPT-Technology-Department"
+	},
+	{
+		"id": "59486CD6-6929-478F-89C3-9D12B8337F50",
+		"code": "TEDU",
+		"name": "TEDU - Technology: Education",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/TEDU-Technology-Education"
+	},
+	{
+		"id": "32D3AD60-84F3-4992-9D43-F80996DACC6D",
+		"code": "THEA",
+		"name": "THEA - Theatre",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/THEA-Theatre"
+	},
+	{
+		"id": "B5DC0AA6-EB5E-4B78-AE00-3CCD3629FA32",
+		"code": "THES",
+		"name": "THES - Thesis",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/THES-Thesis"
+	},
+	{
+		"id": "5DFC9680-DF07-4DD6-B030-E4A81AC33688",
+		"code": "TMFG",
+		"name": "TMFG - Technology: Manufactrng",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/TMFG-Technology-Manufactrng"
+	},
+	{
+		"id": "8EA8829A-0D08-468A-885B-BC92DEB6869B",
+		"code": "TPRE",
+		"name": "TPRE - Technology Preparatn",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/TPRE-Technology-Preparatn"
+	},
+	{
+		"id": "53A55FCF-5A3A-43BB-8520-E33B09D02D4E",
+		"code": "UD",
+		"name": "UD - Urban Design",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/UD-Urban-Design"
+	},
+	{
+		"id": "DE5865A9-32D8-4A07-B86B-A939DD364134",
+		"code": "",
+		"name": "WELN - Wellness",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/WELN-Wellness"
+	},
+	{
+		"id": "E3C4464C-8436-4E8F-BE6D-6E7F54EF884A",
+		"code": "ZOOL",
+		"name": "ZOOL - Zoology",
+		"url": "/en/2025-2026/Graduate-Catalog/Courses/ZOOL-Zoology"
+	}
+]

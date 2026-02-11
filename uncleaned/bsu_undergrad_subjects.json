@@ -1,0 +1,998 @@
+[
+	{
+		"id": "9C12F140-B911-4B08-89B7-AFAB27D5F148",
+		"code": "ACC",
+		"name": "ACC - Accounting",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ACC-Accounting"
+	},
+	{
+		"id": "0DD5924C-0759-4754-886C-DE13A62349FC",
+		"code": "ACR",
+		"name": "ACR - Art:  Crafts",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ACR-Art-Crafts"
+	},
+	{
+		"id": "EC537760-C2E8-4F44-84F9-B8D090AE8625",
+		"code": "ADPR",
+		"name": "ADPR- Advertising and Public Relations",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ADPR-Advertising-and-Public-Relations"
+	},
+	{
+		"id": "44B7876E-8CBD-40CB-A978-0D1212637C19",
+		"code": "ADS",
+		"name": "ADS - Art:  Design",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ADS-Art-Design"
+	},
+	{
+		"id": "EF1548C9-4828-4E95-B374-6CE32AE1F5BE",
+		"code": "AED",
+		"name": "AED - Art:  Education",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/AED-Art-Education"
+	},
+	{
+		"id": "82277E8C-26DC-4D84-81EE-E09594365A46",
+		"code": "AFA",
+		"name": "AFA - Art:  Fine Arts",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/AFA-Art-Fine-Arts"
+	},
+	{
+		"id": "FEDC3014-85E1-4986-A34B-06BC54B584E0",
+		"code": "AFAM",
+		"name": "AFAM - African American Stds",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/AFAM-African-American-Stds"
+	},
+	{
+		"id": "C70C3E2B-3115-4066-8012-735467C817F0",
+		"code": "AFR",
+		"name": "AFR - African Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/AFR-African-Studies"
+	},
+	{
+		"id": "CBA853CC-B66C-4E82-A73F-533C25D9A30C",
+		"code": "AHS",
+		"name": "AHS - Art:  History",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/AHS-Art-History"
+	},
+	{
+		"id": "DD5B6A46-C2F8-4003-AFC8-7AC103161382",
+		"code": "AHSC",
+		"name": "AHSC - Allied Health Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/AHSC-Allied-Health-Science"
+	},
+	{
+		"id": "E63A86B7-7F77-4831-8E83-5B1A422DFEC0",
+		"code": "AMST",
+		"name": "AMST - American Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/AMST-American-Studies"
+	},
+	{
+		"id": "D0FEBF6D-8451-42D9-A149-4E440440FBF5",
+		"code": "ANAT",
+		"name": "ANAT - Anatomy",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ANAT-Anatomy"
+	},
+	{
+		"id": "CB355204-AF35-4B15-B632-051FBF47BC8D",
+		"code": "ANTH",
+		"name": "ANTH - Anthropology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ANTH-Anthropology"
+	},
+	{
+		"id": "E8D24235-EED7-456C-8AC7-C10E7ACD04D9",
+		"code": "APHY",
+		"name": "APHY - Applied Physics",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/APHY-Applied-Physics"
+	},
+	{
+		"id": "E0D67A03-4B02-474E-B835-CB697F55C269",
+		"code": "AQUA",
+		"name": "AQUA - Aquatics",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/AQUA-Aquatics"
+	},
+	{
+		"id": "985AFB21-7A4E-4349-AD73-A8C85CA21342",
+		"code": "AR",
+		"name": "AR - Arabic",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/AR-Arabic"
+	},
+	{
+		"id": "72F8C4B5-FFC9-42F7-8006-FA0A7EEE5420",
+		"code": "ARCH",
+		"name": "ARCH - Architecture",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ARCH-Architecture"
+	},
+	{
+		"id": "5C419C57-077B-4FDE-9383-91ADF27C5C1D",
+		"code": "ART",
+		"name": "ART - Art",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ART-Art"
+	},
+	{
+		"id": "9A68AF17-DCFC-4D90-9AE7-008EDBDD40B2",
+		"code": "ASIA",
+		"name": "ASIA - Asian Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ASIA-Asian-Studies"
+	},
+	{
+		"id": "4A0C18A4-B260-46C0-8F0A-7F12BFE98880",
+		"code": "ASTR",
+		"name": "ASTR - Astronomy",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ASTR-Astronomy"
+	},
+	{
+		"id": "5AC00B5D-9969-415C-BB56-10D0F4770CF3",
+		"code": "BA",
+		"name": "BA - Business Analytics",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/BA-Business-Analytics"
+	},
+	{
+		"id": "2C4262AD-0521-42BD-A444-EE5CE8BBA11B",
+		"code": "BIO",
+		"name": "BIO - Biology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/BIO-Biology"
+	},
+	{
+		"id": "4E7BB034-4AA7-4C81-A45C-E246FA0CEA70",
+		"code": "BIOT",
+		"name": "BIOT - Biotechnology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/BIOT-Biotechnology"
+	},
+	{
+		"id": "3A60FB51-A57E-493E-8416-D7E47CDBCA31",
+		"code": "BIS",
+		"name": "BIS - Business Information Systems",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/BIS-Business-Information-Systems"
+	},
+	{
+		"id": "910FF927-97C1-4F3F-9462-F3526A98237F",
+		"code": "BL",
+		"name": "BL - Business Law",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/BL-Business-Law"
+	},
+	{
+		"id": "2738B709-0BB9-47DA-B854-04EA02C63BCB",
+		"code": "BOT",
+		"name": "BOT - Botany",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/BOT-Botany"
+	},
+	{
+		"id": "07FD911E-4864-4E6F-9536-D74F414C4D05",
+		"code": "BUSA",
+		"name": "BUSA - Business Administrtn",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/BUSA-Business-Administrtn"
+	},
+	{
+		"id": "1282589A-E0A2-4818-BC06-4F9DFA8E5294",
+		"code": "CANS",
+		"name": "CANS - Canadian Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CANS-Canadian-Studies"
+	},
+	{
+		"id": "27FB7AAE-1B72-4054-B161-E83E308CE42B",
+		"code": "CAP",
+		"name": "CAP - Coll Arch & Planning",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CAP-Coll-Arch-Planning"
+	},
+	{
+		"id": "FF57FAAE-26D6-4B7A-8B3E-917107B4AB3D",
+		"code": "CC",
+		"name": "CC - Classical Culture",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CC-Classical-Culture"
+	},
+	{
+		"id": "2F084CEC-30AD-461E-B93D-BC234CD5AF4B",
+		"code": "CCIM",
+		"name": "CCIM - Coll Comm, Info & Media",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CCIM-Coll-Comm-Info-Media"
+	},
+	{
+		"id": "D119786D-7ABA-4E2A-828E-8BD4B819B24C",
+		"code": "CFA",
+		"name": "CFA - College of Fine Arts",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CFA-College-of-Fine-Arts"
+	},
+	{
+		"id": "9AA1123B-625E-4613-A0B0-805C46536040",
+		"code": "CH",
+		"name": "CH - Chinese",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CH-Chinese"
+	},
+	{
+		"id": "4FA89D1C-40EB-44A0-B1B6-9033EFF27FDA",
+		"code": "CHEM",
+		"name": "CHEM - Chemistry",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CHEM-Chemistry"
+	},
+	{
+		"id": "C2AA3EDB-8FC9-4436-BC26-80CEF02BF824",
+		"code": "",
+		"name": "CIS - Computer Info Systems",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CIS-Computer-Info-Systems"
+	},
+	{
+		"id": "08BFF717-9990-486A-B4B1-E316A7DEDC5A",
+		"code": "CJC",
+		"name": "CJC - Crim Justice & Crim",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CJC-Crim-Justice-Crim"
+	},
+	{
+		"id": "DB1F980B-DD49-4CE4-A027-64BE629983C7",
+		"code": "CM",
+		"name": "CM - Construction Management",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CM-Construction-Management"
+	},
+	{
+		"id": "5DFA7818-46A4-4AE1-850E-7CB2F87EA7FF",
+		"code": "COH",
+		"name": "COH - College of Health",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/COH-College-of-Health"
+	},
+	{
+		"id": "E4A86E93-B322-4EC2-BC2B-0485A87E0419",
+		"code": "COMM",
+		"name": "COMM - Communication Stds",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/COMM-Communication-Stds"
+	},
+	{
+		"id": "29A599C0-8772-4EB3-B751-961926BF27A2",
+		"code": "CPSY",
+		"name": "CPSY - Counseling Psych",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CPSY-Counseling-Psych"
+	},
+	{
+		"id": "F2A4613C-76CB-4E0C-9B60-810844E528EF",
+		"code": "CS",
+		"name": "CS - Computer Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CS-Computer-Science"
+	},
+	{
+		"id": "83F1E141-F115-4B3F-98E8-23F9AA420D78",
+		"code": "CSHU",
+		"name": "CSHU - Sci & Hum",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CSHU-Sci-Hum"
+	},
+	{
+		"id": "B55FB7A8-A06E-477E-8580-271369B84953",
+		"code": "CT",
+		"name": "CT - Computer Technology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CT-Computer-Technology"
+	},
+	{
+		"id": "B0D6D20C-8DB7-4140-B637-383C3FFD83BD",
+		"code": "CVIC",
+		"name": "CVIC - Civic Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/CVIC-Civic-Studies"
+	},
+	{
+		"id": "ACB184A9-5F5B-4F6E-8D7C-44F7CA248B60",
+		"code": "DANA",
+		"name": "DANA - Data Analytics",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/DANA-Data-Analytics"
+	},
+	{
+		"id": "0C323DD3-D1D2-4481-BFBD-703ACE1A5141",
+		"code": "DANC",
+		"name": "DANC - Dance",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/DANC-Dance"
+	},
+	{
+		"id": "95095D36-4D46-4624-960A-52249740AA32",
+		"code": "DOTD",
+		"name": "DOTD - Department of Theatre and Dance",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/DOTD-Department-of-Theatre-and-Dance"
+	},
+	{
+		"id": "96D43A29-8B9E-41F3-9A6F-293C401F1C6B",
+		"code": "ECON",
+		"name": "ECON - Economics",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ECON-Economics"
+	},
+	{
+		"id": "B0CC234C-22B6-48AD-9180-E2DFF4749EA5",
+		"code": "ECYF",
+		"name": "ECYF - Early Child Youth Fam",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ECYF-Early-Child-Youth-Fam"
+	},
+	{
+		"id": "9DCB77A7-247D-4E17-873A-824A03AF64B5",
+		"code": "EDAC",
+		"name": "EDAC - Ed: Adult & Communty",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDAC-Ed-Adult-Communty"
+	},
+	{
+		"id": "588C79DF-2399-4B7A-AF28-B2F5A0A98AF5",
+		"code": "EDAD",
+		"name": "EDAD - Ed: Admin & Super",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDAD-Ed-Admin-Super"
+	},
+	{
+		"id": "4B638C89-A89F-4E07-B99C-B41D08FB442F",
+		"code": "EDAL",
+		"name": "EDAL - Ed: All Grade",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDAL-Ed-All-Grade"
+	},
+	{
+		"id": "1A27D107-CAED-42EC-8A93-CBE5E3D767C4",
+		"code": "EDCU",
+		"name": "EDCU - Education: Curriculm",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDCU-Education-Curriculm"
+	},
+	{
+		"id": "8D547831-2658-426A-9EA8-D56F23B0E50C",
+		"code": "EDEL",
+		"name": "EDEL - Educ:  Elementary",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDEL-Educ-Elementary"
+	},
+	{
+		"id": "F7DB8AB8-67E2-4591-B457-03785290D205",
+		"code": "EDFO",
+		"name": "EDFO - Educ:  Foundations",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDFO-Educ-Foundations"
+	},
+	{
+		"id": "9D301A8A-BACF-4BFC-96D2-E6D7D8C43644",
+		"code": "EDGE",
+		"name": "EDGE - Education:  General",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDGE-Education-General"
+	},
+	{
+		"id": "F7744FAF-CBA2-4031-9B0B-9446EE77A3E0",
+		"code": "EDHI",
+		"name": "EDHI - Education:  Higher",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDHI-Education-Higher"
+	},
+	{
+		"id": "844D3DA3-E7FF-4289-90C6-7A165CA3DF2D",
+		"code": "EDJH",
+		"name": "EDJH - Ed:  Jr Hi Mid Schl",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDJH-Ed-Jr-Hi-Mid-Schl"
+	},
+	{
+		"id": "1091935A-48F6-4436-AB3D-B87A3BC50701",
+		"code": "EDMU",
+		"name": "EDMU - Education: Multi-Med",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDMU-Education-Multi-Med"
+	},
+	{
+		"id": "15D0D351-F659-4F3F-AFE8-7A79A9B56DD4",
+		"code": "EDPS",
+		"name": "EDPS - Educ:  Psychology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDPS-Educ-Psychology"
+	},
+	{
+		"id": "933063E9-A2BB-4EF2-8BD3-E996C290946E",
+		"code": "EDRD",
+		"name": "EDRD - Education:  Reading",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDRD-Education-Reading"
+	},
+	{
+		"id": "5ED38B72-C1E6-470B-9435-2AA311B73EFD",
+		"code": "EDSE",
+		"name": "EDSE - Education:  Secondry",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDSE-Education-Secondry"
+	},
+	{
+		"id": "0188AA67-9B6E-4B21-B43C-6D9EB5981B3F",
+		"code": "EDST",
+		"name": "EDST - Educational Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDST-Educational-Studies"
+	},
+	{
+		"id": "B9EB785A-7F3B-47A7-9623-E3DD9BBE5A9E",
+		"code": "EDTE",
+		"name": "EDTE - Education: Technology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EDTE-Education-Technology"
+	},
+	{
+		"id": "12E8D422-82E9-43F3-A10E-6CD91E815762",
+		"code": "EMDD",
+		"name": "EMDD - Emerging Media Des Dev",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EMDD-Emerging-Media-Des-Dev"
+	},
+	{
+		"id": "290C38C1-C703-4F06-B089-438AC000F914",
+		"code": "EMHS",
+		"name": "EMHS - Emer Mgt Hmlnd Sec",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EMHS-Emer-Mgt-Hmlnd-Sec"
+	},
+	{
+		"id": "B87BCFB7-FD7D-46F0-ADB4-903BAE394DFC",
+		"code": "ENEF",
+		"name": "ENEF - English-Forgn Lang",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ENEF-English-Forgn-Lang"
+	},
+	{
+		"id": "C9C4731C-851F-447B-9B79-4E057E6A5449",
+		"code": "ENG",
+		"name": "ENG - English",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ENG-English"
+	},
+	{
+		"id": "06208919-85A3-4D84-B665-4BBCEBE1D59C",
+		"code": "ENGR",
+		"name": "ENGR - Engineering",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ENGR-Engineering"
+	},
+	{
+		"id": "98B0C8DD-0C0E-4EDC-A7F7-7D213FEDB6FD",
+		"code": "ENIE",
+		"name": "ENIE - Eng:Intense.Eng.Inst",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ENIE-Eng-Intense-Eng-Inst"
+	},
+	{
+		"id": "7939314A-488E-425E-ADC9-8FCA8D7B2C45",
+		"code": "ENT",
+		"name": "ENT - Entrepreneurship",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ENT-Entrepreneurship"
+	},
+	{
+		"id": "24A96554-3C73-4DFB-9229-14F7AB2773F6",
+		"code": "EURO",
+		"name": "EURO - European Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EURO-European-Studies"
+	},
+	{
+		"id": "BE02B6BC-C5A3-4E8C-925B-589758A3C1D9",
+		"code": "EXSC",
+		"name": "EXSC - Exercise Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/EXSC-Exercise-Science"
+	},
+	{
+		"id": "ED95FF59-75D6-423D-A957-A7B61187487A",
+		"code": "FASH",
+		"name": "FASH - Fashion",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/FASH-Fashion"
+	},
+	{
+		"id": "36D4ECAF-C9BA-43B9-AD89-054C6159AC51",
+		"code": "FCFC",
+		"name": "FCFC - Fam & Con Sci Fam & Chl",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/FCFC-Fam-Con-Sci-Fam-Chl"
+	},
+	{
+		"id": "B27CD090-0479-493E-A89A-56F6E907D85E",
+		"code": "FCGI",
+		"name": "FCGI - Fam & Con Sci, General",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/FCGI-Fam-Con-Sci-General"
+	},
+	{
+		"id": "5303719F-626E-4DDC-9893-966FC35FF8AD",
+		"code": "FCS",
+		"name": "FCS - Family & Consumer Sc",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/FCS-Family-Consumer-Sc"
+	},
+	{
+		"id": "9B2CA6A8-DE24-43A8-8D5C-6DE4ACC40FD5",
+		"code": "FIN",
+		"name": "FIN - Finance",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/FIN-Finance"
+	},
+	{
+		"id": "47E40C52-22B2-417D-9B6E-58D04DF98428",
+		"code": "",
+		"name": "FL - Foreign Languages",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/FL-Foreign-Languages"
+	},
+	{
+		"id": "79AA1CFE-9AA3-4632-9364-381DAA74BA27",
+		"code": "FOR",
+		"name": "FOR - Forensic Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/FOR-Forensic-Science"
+	},
+	{
+		"id": "FA4143D9-65AB-4BCC-A959-9F588528BA39",
+		"code": "FR",
+		"name": "FR - French",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/FR-French"
+	},
+	{
+		"id": "119E38F2-3D97-4EF5-AF31-787CB8D5E17E",
+		"code": "FYS",
+		"name": "FYS - First Year Seminar",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/FYS-First-Year-Seminar"
+	},
+	{
+		"id": "7C2288DF-49B5-4F8B-A939-124330164CC2",
+		"code": "GCM",
+		"name": "GCM - Graphic Comm Mgt",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/GCM-Graphic-Comm-Mgt"
+	},
+	{
+		"id": "E95DAB58-AB41-4963-8FE7-C0883A1B9517",
+		"code": "GEOG",
+		"name": "GEOG - Geography",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/GEOG-Geography"
+	},
+	{
+		"id": "D7DDB124-E52F-437B-B077-3A1F72C756A6",
+		"code": "GEOL",
+		"name": "GEOL - Geology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/GEOL-Geology"
+	},
+	{
+		"id": "14AE6424-3339-46BA-B08F-5300D51EB28D",
+		"code": "GER",
+		"name": "GER - German",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/GER-German"
+	},
+	{
+		"id": "6C266DEA-9300-493D-9836-7D832336A0AD",
+		"code": "GERO",
+		"name": "GERO - Gerontology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/GERO-Gerontology"
+	},
+	{
+		"id": "6903BDB7-FC0A-460F-BB6A-CD8E7762AC6D",
+		"code": "GLST",
+		"name": "GLST - Global Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/GLST-Global-Studies"
+	},
+	{
+		"id": "B6FE7C4C-7EA8-45C3-9143-E0A9D561D5FE",
+		"code": "",
+		"name": "GRK - Greek",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/GRK-Greek"
+	},
+	{
+		"id": "FD3F760A-848A-4D83-95F1-3064B86FD311",
+		"code": "HHUM",
+		"name": "HHUM - Health Humanities",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/HHUM-Health-Humanities"
+	},
+	{
+		"id": "51290241-E66C-4BC3-B8EF-75A7A8B06A4A",
+		"code": "HIST",
+		"name": "HIST - History",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/HIST-History"
+	},
+	{
+		"id": "56371936-6342-4CF6-B4E2-8A87F333DC4D",
+		"code": "HONR",
+		"name": "HONR - Honors",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/HONR-Honors"
+	},
+	{
+		"id": "B08761BC-ACF8-4D70-AB16-CF26D680B73E",
+		"code": "HOSP",
+		"name": "HOSP - Hosp & Food Mgt",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/HOSP-Hosp-Food-Mgt"
+	},
+	{
+		"id": "D419B6B6-5158-46B4-82BB-CB1EA5EBA1D0",
+		"code": "HSC",
+		"name": "HSC - Health Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/HSC-Health-Science"
+	},
+	{
+		"id": "C98F01F2-7D43-4D77-A000-A5710B1C0232",
+		"code": "IDES",
+		"name": "IDES - Interior Design",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/IDES-Interior-Design"
+	},
+	{
+		"id": "A1D56519-7631-4D29-AECC-429AA5295D1C",
+		"code": "ID",
+		"name": "ID - Interdepartmental",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ID-Interdepartmental"
+	},
+	{
+		"id": "995CE9EA-E015-44F5-A9A8-3436A57496DA",
+		"code": "IEI",
+		"name": "IEI - Intense.Eng.Institut",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/IEI-Intense-Eng-Institut"
+	},
+	{
+		"id": "1D6325AC-C8BC-48E9-BEA3-0FBEE4E2A482",
+		"code": "INAD",
+		"name": "INAD - Intern Fashion Apparel",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/INAD-Intern-Fashion-Apparel"
+	},
+	{
+		"id": "F4EC9FF7-E724-4800-9F09-A32419902E2B",
+		"code": "",
+		"name": "INFM - Intern Fashion Merch",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/INFM-Intern-Fashion-Merch"
+	},
+	{
+		"id": "9D748592-2978-4140-82E9-7C8F8830171D",
+		"code": "INSA",
+		"name": "INSA - International Study Abroad",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/INSA"
+	},
+	{
+		"id": "C472E47B-707B-4740-80DC-497DC74EF30A",
+		"code": "INTB",
+		"name": "INTB - Intl Bus Administration",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/INTB-Intl-Bus-Administration"
+	},
+	{
+		"id": "0F7A7D8E-196B-45FF-B9B8-B1025282F79C",
+		"code": "INTS",
+		"name": "INTS - Intl Study Abroad",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/INTS-Intl-Study-Abroad"
+	},
+	{
+		"id": "51777E7F-6270-4989-B821-6E1561FDDE6A",
+		"code": "",
+		"name": "IS - International Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/IS-International-Studies"
+	},
+	{
+		"id": "0AF7C0CD-F759-48E8-A6BF-A7F2AE755875",
+		"code": "ISOM",
+		"name": "ISOM - Info Sys & Opert Mgt",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ISOM-Info-Sys-Opert-Mgt"
+	},
+	{
+		"id": "B36D73DA-A83E-4F29-A123-FD980E0D593B",
+		"code": "JAPA",
+		"name": "JAPA - Japanese",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/JAPA-Japanese"
+	},
+	{
+		"id": "0DD7BE73-CBD3-4AB8-AB92-30AABABA8537",
+		"code": "JOUR",
+		"name": "JOUR - Journalism",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/JOUR-Journalism"
+	},
+	{
+		"id": "CFBC374A-A4E0-44CF-AEC4-1B6550A528C0",
+		"code": "KEPA",
+		"name": "KEPA - Kinesiology Physical Activity",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/KEPA-Kinesiology-Physical-Activity"
+	},
+	{
+		"id": "29E50762-C2E9-4226-B2F1-51AE79C98466",
+		"code": "KINE",
+		"name": "KINE - Kinesiology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/KINE-Kinesiology"
+	},
+	{
+		"id": "9175BE0B-62A0-4549-A199-5D7C7B2339C4",
+		"code": "LA",
+		"name": "LA - Landscape Architect",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/LA-Landscape-Architect"
+	},
+	{
+		"id": "4F79D919-B007-4B09-B138-43A691238A5A",
+		"code": "LAS",
+		"name": "LAS - Latin American Stds",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/LAS-Latin-American-Stds"
+	},
+	{
+		"id": "8094CF30-C2CB-4FF0-8937-162AB8380DCA",
+		"code": "LAT",
+		"name": "LAT - Latin",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/LAT-Latin"
+	},
+	{
+		"id": "88BF599C-63FC-4848-962C-05DCD56BA577",
+		"code": "LSCM",
+		"name": "LSCM - Logistics & Sply Chain",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/LSCM-Logistics-and-Sply-Chain"
+	},
+	{
+		"id": "790186CE-AE9E-4806-994B-420AA16053DA",
+		"code": "MATH",
+		"name": "MATH - Mathematics",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MATH-Mathematics"
+	},
+	{
+		"id": "D9218974-78A5-41F9-AE14-8073E90A62DC",
+		"code": "MCOB",
+		"name": "MCOB - Miller College of Business",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MCOB-Miller-College-of-Business"
+	},
+	{
+		"id": "16BDBFD8-DDFC-4F0B-B665-3C5C93B7B39C",
+		"code": "MDIA",
+		"name": "MDIA - Media",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MDIA-Media"
+	},
+	{
+		"id": "C9B1A707-0595-4AAD-A4E0-E8888BFD87EA",
+		"code": "MEDT",
+		"name": "MEDT - Medical Technology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MEDT-Medical-Technology"
+	},
+	{
+		"id": "0B4B78DD-A7DA-42CB-A3E9-CD8692C03970",
+		"code": "METC",
+		"name": "METC - Meteorology-Climatology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/METC-Meteorology-Climatology"
+	},
+	{
+		"id": "A8B3B52A-CF01-4F18-8CDB-3EAB3EC27D0D",
+		"code": "MGT",
+		"name": "MGT - Management",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MGT-Management"
+	},
+	{
+		"id": "0985A2A6-C78F-4CF3-8404-C01096680ED6",
+		"code": "MIL",
+		"name": "MIL - Military Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MIL-Military-Science"
+	},
+	{
+		"id": "0A769D9E-2B01-46C7-A867-3180AB5D4C28",
+		"code": "MKG",
+		"name": "MKG - Marketing",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MKG-Marketing"
+	},
+	{
+		"id": "AD8869E2-1284-425B-936D-05DE9C3BF8DF",
+		"code": "ML",
+		"name": "ML - Modern Languages",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ML-Modern-Languages"
+	},
+	{
+		"id": "A74AEF03-5FDE-429E-856E-9A1510F1636F",
+		"code": "MMP",
+		"name": "MMP - Music, Media and Prod",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MMP-Music-Media-and-Prod"
+	},
+	{
+		"id": "424851DC-02F2-4DAE-80C4-B55926E2D6EF",
+		"code": "MUHI",
+		"name": "MUHI - Music:  History",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MUHI-Music-History"
+	},
+	{
+		"id": "493DB0CD-EF23-4F41-8940-5A1C5A47CF03",
+		"code": "MUSC",
+		"name": "MUSC - School of Music",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MUSC-School-of-Music"
+	},
+	{
+		"id": "FC516D91-7E65-4401-BA02-BF781A3366F3",
+		"code": "MUSE",
+		"name": "MUSE - Music:  Education",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MUSE-Music-Education"
+	},
+	{
+		"id": "187E8D81-B164-4358-994E-0FBC5BF69119",
+		"code": "MUSP",
+		"name": "MUSP - Music:  Performance",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MUSP-Music-Performance"
+	},
+	{
+		"id": "D4B4034E-276E-4E18-A489-5EACAC208CE8",
+		"code": "MUST",
+		"name": "MUST - Music: Theory & Comp",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/MUST-Music-Theory-Comp"
+	},
+	{
+		"id": "7D568443-0AFA-4122-9A3D-C6F46ED33052",
+		"code": "NEWS",
+		"name": "NEWS - News",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/NEWS-News"
+	},
+	{
+		"id": "03FD0B71-584D-4FD8-9495-93B1AA513505",
+		"code": "NREM",
+		"name": "NREM - Natural Res & Env Mg",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/NREM-Natural-Res-Env-Mg"
+	},
+	{
+		"id": "59269515-53CD-4EC8-819F-6D8430C564A6",
+		"code": "NSE",
+		"name": "NSE - National Student Ex",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/NSE-National-Student-Ex"
+	},
+	{
+		"id": "73771103-9EB9-4D02-AA76-FDCF80D68F31",
+		"code": "NUR",
+		"name": "NUR - Nursing",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/NUR-Nursing"
+	},
+	{
+		"id": "02410677-0F2C-4F0D-BA4E-F27BB4CCB8D2",
+		"code": "NUTR",
+		"name": "NUTR - Nutrition",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/NUTR-Nutrition"
+	},
+	{
+		"id": "3386D6E8-847E-4FD9-B5F3-0BD2582D3B14",
+		"code": "PEP",
+		"name": "PEP - Phys Ed:  Professnal",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/PEP-Phys-Ed-Professnal"
+	},
+	{
+		"id": "3B2A9D56-D87B-4F3F-9933-6B45C5D4FEB0",
+		"code": "PFW",
+		"name": "PFW - Phycl Ed Fit Wellnss",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/PFW-Phycl-Ed-Fit-Wellnss"
+	},
+	{
+		"id": "7BEE60C6-F5ED-4850-9485-C95337FF35E1",
+		"code": "PHIL",
+		"name": "PHIL - Philosophy",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/PHIL-Philosophy"
+	},
+	{
+		"id": "11E64879-9B6F-43CC-AF86-EF55E3C20301",
+		"code": "PHYC",
+		"name": "PHYC - Physics",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/PHYC-Physics"
+	},
+	{
+		"id": "159DC67E-E5F2-4B8E-BB47-8CE90368FAB3",
+		"code": "PHYS",
+		"name": "PHYS - Physiology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/PHYS-Physiology"
+	},
+	{
+		"id": "BFDE727A-CCBA-4A7F-9142-D7C84ECC2F19",
+		"code": "PLAN",
+		"name": "PLAN - Planning",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/PLAN-Planning"
+	},
+	{
+		"id": "195B353C-598E-43AC-8A07-F775CB97C735",
+		"code": "PMGT",
+		"name": "PMGT - Residential Prop Mgt",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/PMGT-Residential-Prop-Mgt"
+	},
+	{
+		"id": "1259134C-39F4-4CAD-B996-3752391BF7C3",
+		"code": "POLS",
+		"name": "POLS - Political Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/POLS-Political-Science"
+	},
+	{
+		"id": "D9CD02B6-021F-4CB4-87F9-07F1006B1BC3",
+		"code": "PSCR",
+		"name": "PSCR - Peace Stds Conflict Res",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/PSCR-Peace-Stds-Conflict-Res"
+	},
+	{
+		"id": "EC97635B-7174-41D2-A21E-04B85A4EB6DA",
+		"code": "PSYS",
+		"name": "PSYS - Psychological Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/PSYS-Psychological-Science"
+	},
+	{
+		"id": "5D9F9FFC-3BB0-4A50-B989-BE477DA716B7",
+		"code": "RELS",
+		"name": "RELS - Religious Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/RELS-Religious-Studies"
+	},
+	{
+		"id": "AAF7D05C-2659-47DC-A0FC-F4B1DBC3D854",
+		"code": "RE",
+		"name": "RE - Real Estate",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/RE-Real-Estate"
+	},
+	{
+		"id": "90034D54-2E21-4491-AB36-13B5C9D57735",
+		"code": "RMI",
+		"name": "RMI - Risk Mgt & Insurance",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/RMI-Risk-Mgt-Insurance"
+	},
+	{
+		"id": "18D16A69-7BB1-453E-AFA4-5366548B2079",
+		"code": "SCI",
+		"name": "SCI - Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SCI-Science"
+	},
+	{
+		"id": "DB051A27-EB55-4992-8161-D5F480AE3895",
+		"code": "SEPS",
+		"name": "SEPS - Sport Exercise Psych",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SEPS-Sport-Exercise-Psych"
+	},
+	{
+		"id": "569550CC-A5A0-4A9E-96E1-A97FBBDE2185",
+		"code": "SNLN",
+		"name": "SNLN - Sign Language",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SNLN-Sign-Language"
+	},
+	{
+		"id": "02A2F3AE-8734-450C-8601-74942921CA46",
+		"code": "SOC",
+		"name": "SOC - Sociology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SOC-Sociology"
+	},
+	{
+		"id": "B79883C2-FA03-4924-BE63-5691092B9770",
+		"code": "SOCW",
+		"name": "SOCW - Social Work",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SOCW-Social-Work"
+	},
+	{
+		"id": "3CDF66CC-A817-49A7-B66B-4740F7DA4834",
+		"code": "SPAA",
+		"name": "SPAA - Speech Path & Audio",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SPAA-Speech-Path-Audio"
+	},
+	{
+		"id": "1FC7DD86-23F5-4E78-9180-AC7DB7A6BAA4",
+		"code": "SPCE",
+		"name": "SPCE - Special Education",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SPCE-Special-Education"
+	},
+	{
+		"id": "7D4B213E-3E0C-4DAE-B5CD-F93DCC6CEF03",
+		"code": "SP",
+		"name": "SP - Spanish",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SP-Spanish"
+	},
+	{
+		"id": "B154C704-2EBD-472F-8895-A747DACB22B6",
+		"code": "SPST",
+		"name": "SPST - Sports Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SPST-Sports-Studies"
+	},
+	{
+		"id": "E032F839-E9CE-4059-AC2E-E896C1276D1D",
+		"code": "SPTA",
+		"name": "SPTA - Sport Administration",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SPTA-Sport-Administration"
+	},
+	{
+		"id": "6B915C12-668C-4CA9-8C6B-38E04775A355",
+		"code": "SS",
+		"name": "SS - Social Science",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SS-Social-Science"
+	},
+	{
+		"id": "BFCBC293-314D-4BE6-B7D9-7C46521FFB81",
+		"code": "SUST",
+		"name": "SUST - Sustainability",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/SUST-Sustainability"
+	},
+	{
+		"id": "7DDDCB36-07F1-4D80-B3B5-CA291950B27E",
+		"code": "TDPT",
+		"name": "TDPT - Technology: Department",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/TDPT-Technology-Department"
+	},
+	{
+		"id": "A98332D9-B220-4534-B35A-6BF38D9D0485",
+		"code": "TEDU",
+		"name": "TEDU - Technology: Education",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/TEDU-Technology-Education"
+	},
+	{
+		"id": "F8027321-D2F2-4192-AF80-9BE01119072E",
+		"code": "THEA",
+		"name": "THEA - Theatre",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/THEA-Theatre"
+	},
+	{
+		"id": "C5CCE9C4-6F4E-48F6-AA16-6C56A276ECB6",
+		"code": "UCOL",
+		"name": "UCOL - University College",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/UCOL-University-College"
+	},
+	{
+		"id": "5D72C6CE-4525-4020-9DC2-F88458C25660",
+		"code": "VBC",
+		"name": "VBC - Virgina Ball Center",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/VBC-Virgina-Ball-Center"
+	},
+	{
+		"id": "1779599F-A6C4-49B3-8A65-253D37D24BB4",
+		"code": "WELN",
+		"name": "WELN - Wellness",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/WELN-Wellness"
+	},
+	{
+		"id": "0940FB1A-BB07-42E8-9F72-596DE9B16F71",
+		"code": "WGS",
+		"name": "WGS - Women's & Gender Studies",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/WGS-Women-s-Gender-Studies"
+	},
+	{
+		"id": "DCCB48C6-00BC-4938-8F5E-F8F966221313",
+		"code": "WWIN",
+		"name": "WWIN - Workplace Wellness",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/WWIN-Workplace-Wellness"
+	},
+	{
+		"id": "9F6138CA-8D8A-4EAF-A616-527C7B8C05AA",
+		"code": "ZOOL",
+		"name": "ZOOL - Zoology",
+		"url": "/en/2025-2026/Undergraduate-Catalog/Courses/ZOOL-Zoology"
+	}
+]

@@ -2,6 +2,7 @@ import csv
 import json
 import os
 import re
+import ssl
 import sys
 import time
 import urllib.error
@@ -17,16 +18,22 @@ OUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 
 
 def get(url, headers=None, data=None, retries=3, timeout=20):
-    err = None
+    err, context = None, None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers={**UA, **(headers or {})}, data=data)
-            with urllib.request.urlopen(req, timeout=timeout) as r:
+            with urllib.request.urlopen(req, timeout=timeout, context=context) as r:
                 return r.read().decode("utf-8", "ignore")
         except urllib.error.HTTPError as e:
             err = e
             if 400 <= e.code < 500:
                 break
+            time.sleep(2 * (attempt + 1))
+        except urllib.error.URLError as e:
+            err = e
+            if "CERTIFICATE_VERIFY_FAILED" in str(e) and context is None:
+                context = ssl._create_unverified_context()
+                continue
             time.sleep(2 * (attempt + 1))
         except Exception as e:
             err = e

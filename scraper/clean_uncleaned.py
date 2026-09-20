@@ -9,7 +9,7 @@ ROOT = "/Users/abhi/Documents/course_data"
 
 
 def rows(path):
-    return list(csv.DictReader(open(f"{ROOT}/{path}", encoding="utf-8-sig")))
+    return list(csv.DictReader(open(f"{ROOT}/uncleaned/{path.removeprefix('uncleaned/')}", encoding="utf-8-sig")))
 
 
 def credits(s):

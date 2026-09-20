@@ -32,7 +32,7 @@ BLOCK_TITLE = re.compile(r'class="courseblocktitle[^"]*"[^>]*>(.*?)</(?:h4|p|h3|
 BLOCK_HOURS = re.compile(r'class="courseblockhours[^"]*"[^>]*>(.*?)</', re.S)
 PAGE_TITLE = re.compile(r'<h1[^>]*class="page-title"[^>]*>(.*?)</h1>|<h1[^>]*>(.*?)</h1>', re.S)
 CREDITS_TAIL = re.compile(r'[\s(]*(\d+(?:\.\d+)?(?:\s*(?:-|–|to|or)\s*\d+(?:\.\d+)?)?)\s*(?:credit hours?|credits?|units?|hours?|cr\.?|ch\.?|hrs?\.?|s\.h\.)\.?\)?\s*$', re.I)
-CODE_HEAD = re.compile(r'^((?:[A-Z]{2,6}(?:[ &/-][A-Z]{1,6})?)\s?\d{1,4}[A-Z]{0,3}(?:\.\d{1,4})?[A-Z]?|\d{1,2}\.[0-9A-Z]{2,5}|[A-Z]{2,6}-\d{2,4}[A-Z]?)\s*[:\-–]?\s+(.+)$')
+CODE_HEAD = re.compile(r'^((?:[A-Z]{2,6}(?:[ &/-][A-Z]{1,6})?)\s?\d{1,4}[A-Z]{0,3}(?:\.\d{1,4})?[A-Z]?|\d{1,2}\.[0-9A-Z]{2,5}|[A-Z]{2,6}-\d{2,4}[A-Z]?)\s*[.:\-–]?\s+(.+)$')
 STRIP = re.compile(r"<[^>]+>")
 
 

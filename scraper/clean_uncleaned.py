@@ -1,11 +1,12 @@
 """One-off column mappings for the raw CSVs Mihir scraped but never cleaned."""
 import csv
+import os
 import re
 import sys
 
 from common import write_csv
 
-ROOT = "/Users/abhi/Documents/course_data"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def rows(path):

@@ -127,6 +127,8 @@ def crawl_urls(base, limit=1500):
 def main(org, base, path_filter=None):
     urls = sitemap_urls(base)
     host = urlparse(base).netloc
+    if base.startswith("http://"):
+        urls = [u.replace("https://", "http://", 1) for u in urls]
     urls = [u for u in urls if urlparse(u).netloc == host]
     if path_filter:
         urls = [u for u in urls if re.search(path_filter, u)]

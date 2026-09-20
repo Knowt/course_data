@@ -50,7 +50,7 @@ def term_courses(base, term):
 def latest_terms(base, count=2):
     opener, token = session(base)
     terms = json.loads(call(opener, token, f"{base}/ssb/classSearch/getTerms?searchTerm=&offset=1&max=20"))
-    picked = [t["code"] for t in terms if "view only" not in (t.get("description") or "").lower()][:count]
+    picked = [t["code"] for t in terms if "view only" not in (t.get("description") or "").lower()][:count] or [t["code"] for t in terms[:count]]
     print(f"  terms: {picked}", file=sys.stderr)
     return picked
 

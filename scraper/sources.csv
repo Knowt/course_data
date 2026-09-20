@@ -1,5 +1,6 @@
 org,script,args
 acu.edu,acalog.py,https://catalog.acu.edu/
+adelphi.edu,acalog.py,https://catalog.adelphi.edu/
 albany.edu,,"original mihirp11 scrape, 2025; script not preserved"
 appstate.edu,,"original mihirp11 scrape, 2025; script not preserved"
 arizona.edu,,"original mihirp11 scrape, 2025; script not preserved"
@@ -83,6 +84,7 @@ kennesaw.edu,,"original mihirp11 scrape, 2025; script not preserved"
 kent.edu,,"original mihirp11 scrape, 2025; script not preserved"
 ksu.edu,,"original mihirp11 scrape, 2025; script not preserved"
 ku.edu,,"original mihirp11 scrape, 2025; script not preserved"
+lafayette.edu,banner.py,https://selfservice.lafayette.edu/StudentRegistrationSsb
 lamar.edu,courseleaf.py,https://catalog.lamar.edu/
 latech.edu,acalog.py,https://catalog.latech.edu/
 lehigh.edu,banner.py,https://reg-prod.ec.lehigh.edu/StudentRegistrationSsb
@@ -91,11 +93,13 @@ lonestar.edu,,"original mihirp11 scrape, 2025; script not preserved"
 louisville.edu,,"original mihirp11 scrape, 2025; script not preserved"
 lsu.edu,,"original mihirp11 scrape, 2025; script not preserved"
 luc.edu,,"original mihirp11 scrape, 2025; script not preserved"
+maine.edu,acalog.py,https://catalog.umaine.edu/ (UMaine Orono catalog, filed under the maine.edu system org)
 maricopa.edu,coursedog.py,catalog.maricopa.edu
 mdc.edu,mdc_pdf.py,../uncleaned/mdc_catalog_2026-2028.pdf (downloaded 2026-09-19 from https://mdc.curricunet.com/catalog; needs pip install pypdf)
 memphis.edu,acalog.py,https://catalog.memphis.edu/index.php?catoid=43 https://catalog.memphis.edu/index.php?catoid=40
 miami.edu,,"original mihirp11 scrape, 2025; script not preserved"
 miamioh.edu,,"original mihirp11 scrape, 2025; script not preserved"
+mines.edu,courseleaf.py,https://catalog.mines.edu/
 missouri.edu,,"original mihirp11 scrape, 2025; script not preserved"
 missouristate.edu,,"original mihirp11 scrape, 2025; script not preserved"
 mit.edu,courseleaf.py,https://catalog.mit.edu/
@@ -127,6 +131,7 @@ princeton.edu,princeton.py,1252 1254 1262 1264 1272
 psu.edu,,"original mihirp11 scrape, 2025; script not preserved"
 purdue.edu,acalog.py,https://catalog.purdue.edu/
 purdueglobal.edu,courseleaf.py,https://catalog.purdueglobal.edu/
+ramapo.edu,coursedog.py,catalog.ramapo.edu
 rice.edu,courseleaf.py,https://ga.rice.edu/
 rit.edu,clean_uncleaned.py,"rit (raw file from mihirp11, now removed; see git history)"
 rowan.edu,clean_uncleaned.py,"rowan (raw file from mihirp11, now removed; see git history)"
@@ -144,6 +149,7 @@ snhu.edu,,"original mihirp11 scrape, 2025; script not preserved"
 southalabama.edu,courseleaf.py,https://bulletin.southalabama.edu/
 stanford.edu,coursedog.py,bulletin.stanford.edu
 stlcc.edu,courseleaf.py,https://catalog.stlcc.edu/
+stockton.edu,banner.py,https://banner.stockton.edu/StudentRegistrationSsb
 stonybrook.edu,,"original mihirp11 scrape, 2025; script not preserved"
 suu.edu,acalog.py,https://catalog.suu.edu/
 syr.edu,,"original mihirp11 scrape, 2025; script not preserved"
@@ -165,6 +171,7 @@ ucf.edu,,"original mihirp11 scrape, 2025; script not preserved"
 uchicago.edu,courseleaf.py,http://collegecatalog.uchicago.edu/
 uci.edu,,"original mihirp11 scrape, 2025; script not preserved"
 ucla.edu,,"original mihirp11 scrape, 2025; script not preserved"
+uco.edu,acalog.py,https://catalog.uco.edu/index.php?catoid=33 https://catalog.uco.edu/index.php?catoid=29
 uconn.edu,,"original mihirp11 scrape, 2025; script not preserved"
 ucr.edu,banner.py,https://registrationssb.ucr.edu/StudentRegistrationSsb 202620 202640
 ucsb.edu,,"original mihirp11 scrape, 2025; script not preserved"
@@ -185,6 +192,7 @@ umich.edu,umich.py,2610 2580 2570
 umn.edu,,"original mihirp11 scrape, 2025; script not preserved"
 unc.edu,,"original mihirp11 scrape, 2025; script not preserved"
 uncg.edu,clean_uncleaned.py,"uncg.edu (raw file from mihirp11, now removed; see git history)"
+une.edu,courseleaf.py,https://catalog.une.edu/
 uni.edu,courseleaf.py,https://catalog.uni.edu/
 unl.edu,,"original mihirp11 scrape, 2025; script not preserved"
 unlv.edu,,"original mihirp11 scrape, 2025; script not preserved"
@@ -218,8 +226,10 @@ vt.edu,,"original mihirp11 scrape, 2025; script not preserved"
 wayne.edu,banner.py,https://registration.wayne.edu/StudentRegistrationSsb
 wcupa.edu,banner.py,https://reg-prod.ec.wcupa.edu/StudentRegistrationSsb
 weber.edu,banner.py,https://selfservice.weber.edu/StudentRegistrationSsb
+wesleyan.edu,courseleaf.py,https://catalog.wesleyan.edu/
 wfu.edu,courseleaf.py,https://bulletin.wfu.edu/
 wgu.edu,,"original mihirp11 scrape, 2025; script not preserved"
+wheaton.edu,courseleaf.py,https://catalog.wheaton.edu/
 wisc.edu,,"original mihirp11 scrape, 2025; script not preserved"
 wm.edu,courseleaf.py,https://catalog.wm.edu/
 wsu.edu,,"original mihirp11 scrape, 2025; script not preserved"

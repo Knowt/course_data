@@ -16,6 +16,7 @@ Output goes to `../cleaned/<org>.csv` with the columns `courseId,courseName,cour
 | `peoplesoft.py` | PeopleSoft Campus Solutions | `SSS_BROWSE_CATLG.GBL` guest browse page | GBL url (and the public page that frames it, as Referer) |
 | `kuali.py` | Kuali | `<school>.kuali.co` | tenant base URL |
 | `asu.py`, `harvard.py`, `princeton.py`, `umich.py`, `bc.py` | one-off public APIs and forms | | see the docstring in each |
+| `mdc_pdf.py` | CurricUNET catalog PDF | only a whole-catalog PDF export is offered | path to the downloaded PDF (`pip install pypdf`) |
 | `clean_uncleaned.py` | none | column mappings for raw CSVs in `../uncleaned/` | raw file name |
 
 `detect.py <domains file>` probes a list of domains and prints the provider for each.

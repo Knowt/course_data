@@ -84,6 +84,7 @@ louisville.edu,,"original mihirp11 scrape, 2025; script not preserved"
 lsu.edu,,"original mihirp11 scrape, 2025; script not preserved"
 luc.edu,,"original mihirp11 scrape, 2025; script not preserved"
 maricopa.edu,coursedog.py,catalog.maricopa.edu
+mdc.edu,mdc_pdf.py,<catalog PDF downloaded from https://mdc.curricunet.com/catalog 'Download Catalog PDF'; needs pip install pypdf>
 miami.edu,,"original mihirp11 scrape, 2025; script not preserved"
 miamioh.edu,,"original mihirp11 scrape, 2025; script not preserved"
 missouri.edu,,"original mihirp11 scrape, 2025; script not preserved"

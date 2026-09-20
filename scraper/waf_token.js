@@ -10,14 +10,14 @@ const UA =
     const browser = await chromium.launch();
     const ctx = await browser.newContext({ userAgent: UA });
     const page = await ctx.newPage();
-    await page.goto(url, { waitUntil: "networkidle", timeout: 90000 });
+    await page.goto(url, { waitUntil: "domcontentloaded", timeout: 90000 }).catch(e => console.error(`goto: ${e.message}`));
     for (let i = 0; i < 20; i++) {
         const cookies = await ctx.cookies();
         if (cookies.some(c => c.name === "aws-waf-token")) break;
         await page.waitForTimeout(1000);
     }
     const cookies = await ctx.cookies();
-    const html = await page.content();
+    const html = await page.content().catch(() => "");
     console.log(JSON.stringify({ cookie: cookies.map(c => `${c.name}=${c.value}`).join("; "), coids: (html.match(/coid=\d+/g) || []).length }));
     await browser.close();
 })();

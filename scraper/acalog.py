@@ -20,8 +20,12 @@ STRIP = re.compile(r"<[^>]+>")
 
 
 def waf_cookie(url):
-    out = subprocess.run(["node", os.path.join(HERE, "waf_token.js"), url], capture_output=True, text=True, timeout=180)
-    return json.loads(out.stdout.strip().splitlines()[-1])["cookie"]
+    try:
+        out = subprocess.run(["node", os.path.join(HERE, "waf_token.js"), url], capture_output=True, text=True, timeout=180)
+        return json.loads(out.stdout.strip().splitlines()[-1])["cookie"]
+    except (subprocess.TimeoutExpired, IndexError, KeyError, json.JSONDecodeError) as e:
+        print(f"waf_token failed for {url}: {e} {getattr(e, 'stderr', '') or (out.stderr[-300:] if 'out' in dir() else '')}", file=sys.stderr)
+        return ""
 
 
 def fetch(url, cookie):

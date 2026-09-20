@@ -13,6 +13,7 @@ Output goes to `../cleaned/<org>.csv` with the columns `courseId,courseName,cour
 | `coursedog.py` | Coursedog | Nuxt SPA, `app.coursedog.com` in the JS | catalog host |
 | `fose.py` | CourseLeaf FOSE course search | `/api/?page=fose&route=search` | host plus term codes (`srcdb`) from the site's term dropdown |
 | `banner.py` | Ellucian Banner 9 | `…/StudentRegistrationSsb/ssb/courseSearch` | SSB base URL plus term codes |
+| `peoplesoft.py` | PeopleSoft Campus Solutions | `SSS_BROWSE_CATLG.GBL` guest browse page | GBL url (and the public page that frames it, as Referer) |
 | `kuali.py` | Kuali | `<school>.kuali.co` | tenant base URL |
 | `asu.py`, `harvard.py`, `princeton.py` | one-off public APIs | | see the docstring in each |
 | `clean_uncleaned.py` | none | column mappings for raw CSVs in `../uncleaned/` | raw file name |

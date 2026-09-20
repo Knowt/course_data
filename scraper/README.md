@@ -15,7 +15,7 @@ Output goes to `../cleaned/<org>.csv` with the columns `courseId,courseName,cour
 | `banner.py` | Ellucian Banner 9 | `…/StudentRegistrationSsb/ssb/courseSearch` | SSB base URL plus term codes |
 | `peoplesoft.py` | PeopleSoft Campus Solutions | `SSS_BROWSE_CATLG.GBL` guest browse page | GBL url (and the public page that frames it, as Referer) |
 | `kuali.py` | Kuali | `<school>.kuali.co` | tenant base URL |
-| `asu.py`, `harvard.py`, `princeton.py`, `umich.py`, `bc.py` | one-off public APIs and forms | | see the docstring in each |
+| `asu.py`, `harvard.py`, `princeton.py`, `umich.py`, `bc.py`, `nau.py`, `austincc.py` | one-off public APIs and forms | | see the docstring in each |
 | `mdc_pdf.py` | CurricUNET catalog PDF | only a whole-catalog PDF export is offered | path to the downloaded PDF (`pip install pypdf`) |
 | `clean_uncleaned.py` | none | column mappings for raw CSVs in `../uncleaned/` | raw file name |
 

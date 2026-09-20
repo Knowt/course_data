@@ -21,6 +21,10 @@ Output goes to `../cleaned/<org>.csv` with the columns `courseId,courseName,cour
 
 `detect.py <domains file>` probes a list of domains and prints the provider for each.
 
+## Setup
+
+Everything is Python standard library except `mdc_pdf.py`, which reads the PDF with pypdf: `pip3 install -r requirements.txt`. `acalog.py` and the WAF-protected CourseLeaf sites also need Node with Playwright available via `NODE_PATH` (see below).
+
 ## Gotchas
 
 - Acalog sites and some CourseLeaf sites sit behind an AWS WAF JavaScript challenge. `waf_token.js` solves it with Playwright and the Python scripts call it automatically; it needs `NODE_PATH` pointing at a `node_modules` that has `playwright` (Goliath's root works).

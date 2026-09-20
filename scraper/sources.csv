@@ -1,4 +1,3 @@
-org,script,args
 albany.edu,,"original mihirp11 scrape, 2025; script not preserved"
 appstate.edu,,"original mihirp11 scrape, 2025; script not preserved"
 arizona.edu,,"original mihirp11 scrape, 2025; script not preserved"
@@ -89,6 +88,7 @@ ohio.edu,acalog.py,https://catalogs.ohio.edu/
 okstate.edu,,"original mihirp11 scrape, 2025; script not preserved"
 olemiss.edu,,"original mihirp11 scrape, 2025; script not preserved"
 oregonstate.edu,,"original mihirp11 scrape, 2025; script not preserved"
+org,script,args
 osu.edu,,"original mihirp11 scrape, 2025; script not preserved"
 ou.edu,,"original mihirp11 scrape, 2025; script not preserved"
 pdx.edu,clean_uncleaned.py,"pdx (raw file from mihirp11, now removed; see git history)"
@@ -121,6 +121,7 @@ uab.edu,clean_uncleaned.py,"uab.edu (raw file from mihirp11, now removed; see gi
 uark.edu,,"original mihirp11 scrape, 2025; script not preserved"
 ucdavis.edu,,"original mihirp11 scrape, 2025; script not preserved"
 ucf.edu,,"original mihirp11 scrape, 2025; script not preserved"
+uchicago.edu,courseleaf.py,http://collegecatalog.uchicago.edu/
 uci.edu,,"original mihirp11 scrape, 2025; script not preserved"
 ucla.edu,,"original mihirp11 scrape, 2025; script not preserved"
 uconn.edu,,"original mihirp11 scrape, 2025; script not preserved"

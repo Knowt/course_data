@@ -2,7 +2,7 @@
 
 `sources.csv` is the record of how every file in `../cleaned/` was produced: one row per org with the script and the arguments used. Replay one with `./run.sh <org>`. Rows with an empty script are Mihir's original 2025 scrapes, whose scripts were never checked in.
 
-Output goes to `../cleaned/<org>.csv` with the columns `courseId,courseName,courseCredits,courseSubject,courseLevel,courseCampus`. Copy the file into `apps/backend/school_generator/src/csv/courses/` in Goliath and run the course import there.
+Output goes to `../cleaned/<org>.csv` with the columns `courseId,courseName,courseCredits,courseSubject,courseLevel,courseCampus`. Goliath's course import (`apps/backend/school_generator`) reads `../cleaned/` directly from a sibling checkout of this repo.
 
 ## Scripts by catalog provider
 

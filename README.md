@@ -31,9 +31,10 @@ Every file in `cleaned/` has the same columns:
    table of providers and the gotchas (WAF challenges, required headers, term codes).
 3. Check the output in `cleaned/<org>.csv`, then add a row to `scraper/sources.csv` with the exact script and
    arguments used. `scraper/run.sh <org>` replays that row later.
-4. Copy the CSV into Goliath at `apps/backend/school_generator/src/csv/courses/` and run the import from
-   `apps/backend/school_generator`: `yarn build && node dist/index.cjs`. Orgs already imported are skipped; set
-   `REIMPORT_ORGS=a.edu,b.edu` to wipe and reload specific ones.
+4. Run the import from Goliath's `apps/backend/school_generator`: `yarn build && node dist/index.cjs`. It reads
+   `cleaned/` straight from this repo, which it expects as a sibling directory of the Goliath checkout (override
+   with `COURSES_CSV_DIR=/path/to/cleaned`). Orgs already imported are skipped; set `REIMPORT_ORGS=a.edu,b.edu` to
+   wipe and reload specific ones.
 
 If a site blocks scripts, open it in a browser and copy the request that returns courses (DevTools → Copy as cURL).
 Harvard, Princeton, Yale, Brown, UC Riverside and Boston College were all unlocked that way.

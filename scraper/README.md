@@ -12,6 +12,7 @@ Output goes to `../cleaned/<org>.csv` with the columns `courseId,courseName,cour
 | `acalog.py` | Acalog / Modern Campus | `content.php?catoid=N&navoid=M` URLs | catalog index URL, one per catoid if undergrad and grad are separate |
 | `coursedog.py` | Coursedog | Nuxt SPA, `app.coursedog.com` in the JS | catalog host |
 | `fose.py` | CourseLeaf FOSE course search | `/api/?page=fose&route=search` | host plus term codes (`srcdb`) from the site's term dropdown |
+| `banner.py` | Ellucian Banner 9 | `…/StudentRegistrationSsb/ssb/courseSearch` | SSB base URL plus term codes |
 | `kuali.py` | Kuali | `<school>.kuali.co` | tenant base URL |
 | `asu.py`, `harvard.py`, `princeton.py` | one-off public APIs | | see the docstring in each |
 | `clean_uncleaned.py` | none | column mappings for raw CSVs in `../uncleaned/` | raw file name |

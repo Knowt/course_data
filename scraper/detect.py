@@ -31,8 +31,9 @@ def probe(domain):
             results.append((u, final, prov, len(html)))
             if prov != "unknown": break
     return domain, results
-domains = [l.strip() for l in open("targets.txt") if l.strip() and not l.startswith("#")]
-with cf.ThreadPoolExecutor(12) as ex:
-    for domain, results in ex.map(probe, domains):
-        best = next((r for r in results if r[2] != "unknown"), results[0] if results else None)
-        print(json.dumps({"domain": domain, "provider": best[2] if best else "none", "url": best[1] if best else None, "tried": len(results)}))
+if __name__ == "__main__":
+    domains = [l.strip() for l in open(sys.argv[1]) if l.strip() and not l.startswith("#")]
+    with cf.ThreadPoolExecutor(12) as ex:
+        for domain, results in ex.map(probe, domains):
+            best = next((r for r in results if r[2] != "unknown"), results[0] if results else None)
+            print(json.dumps({"domain": domain, "provider": best[2] if best else "none", "url": best[1] if best else None, "tried": len(results)}))

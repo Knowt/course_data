@@ -7,6 +7,7 @@ asu.edu,asu.py,2261 2267
 auburn.edu,,"original mihirp11 scrape, 2025; script not preserved"
 barnard.edu,courseleaf.py,https://catalog.barnard.edu/
 baylor.edu,,"original mihirp11 scrape, 2025; script not preserved"
+bc.edu,bc.py,<personResponse captcha token from DevTools; BC_COOKIE env with the session cookies> 2026FALL 2026SUMM
 berkeley.edu,,"original mihirp11 scrape, 2025; script not preserved"
 binghamton.edu,,"original mihirp11 scrape, 2025; script not preserved"
 brown.edu,fose.py,cab.brown.edu 202510 202520 202610 202620

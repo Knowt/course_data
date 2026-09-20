@@ -15,7 +15,7 @@ Output goes to `../cleaned/<org>.csv` with the columns `courseId,courseName,cour
 | `banner.py` | Ellucian Banner 9 | `…/StudentRegistrationSsb/ssb/courseSearch` | SSB base URL plus term codes |
 | `peoplesoft.py` | PeopleSoft Campus Solutions | `SSS_BROWSE_CATLG.GBL` guest browse page | GBL url (and the public page that frames it, as Referer) |
 | `kuali.py` | Kuali | `<school>.kuali.co` | tenant base URL |
-| `asu.py`, `harvard.py`, `princeton.py` | one-off public APIs | | see the docstring in each |
+| `asu.py`, `harvard.py`, `princeton.py`, `umich.py` | one-off public APIs and forms | | see the docstring in each |
 | `clean_uncleaned.py` | none | column mappings for raw CSVs in `../uncleaned/` | raw file name |
 
 `detect.py <domains file>` probes a list of domains and prints the provider for each.

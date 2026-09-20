@@ -163,6 +163,7 @@ uky.edu,,"original mihirp11 scrape, 2025; script not preserved"
 umass.edu,clean_uncleaned.py,"umass (raw file from mihirp11, now removed; see git history)"
 umbc.edu,acalog.py,https://catalog.umbc.edu/
 umd.edu,,"original mihirp11 scrape, 2025; script not preserved"
+umich.edu,umich.py,2610 2580 2570
 umn.edu,,"original mihirp11 scrape, 2025; script not preserved"
 unc.edu,,"original mihirp11 scrape, 2025; script not preserved"
 uncg.edu,clean_uncleaned.py,"uncg.edu (raw file from mihirp11, now removed; see git history)"
